@@ -1,8 +1,8 @@
-Smart car parking system
-ABSTRACT 
+
+ABSTRACT : 
 The proposed project aims to develop an automobile parking system using RFID technology and a PIC16 microcontroller. The system includes an RFID reader, an LCD screen, an IR sensor.The microcontroller checks the RFID tag's unique ID attached to the vehicle and signals the servo motor to open the gate if the ID is approved. The LCD display shows the availability status of parking spaces, and the IR sensor at the exit gate detects the vehicle's presence and updates the display accordingly. The system improves the parking slot's security, accuracy, and speed, and it is suitable for managing parking spaces in busy areas such as shopping malls, airports, and hospitals. The PIC16 microcontroller-based RFID-based auto parking system is a reliable and effective solution for parking lot management.
 
-Scope of the Project
+Scope of the Project :
 The project encompasses the design and development of an automated car parking system that leverages RFID technology and a PIC16 microcontroller. 
 The system will incorporate key components such as an RFID reader, an LCD display, a servo motor, and an IR sensor. The RFID reader will be responsible for reading RFID tags attached to vehicles, while the LCD display will provide real-time parking status updates.
  The servo motor will control the gate, and the IR sensor will detect vehicle presence. Furthermore, the system will incorporate a database for storing vehicle information.
